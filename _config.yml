@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       LC-CFA
+email:       undertree93@gmail.com
+author:      LC
+description: "LC CFA prep"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://undertree93.github.io/lc-cfa"
 date_format: "%b %-d, %Y"
 
 # Google services
